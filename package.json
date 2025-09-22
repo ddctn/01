@@ -1,0 +1,10 @@
+{
+  "name": "project_1",
+  "version": "1.0",
+  "description": "first project",
+  "main": "index.html",
+  "repository": "https://github.com/ddctn/01",
+  "author": "eva",
+  "license": "MIT",
+  "private": true
+}
